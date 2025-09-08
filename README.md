@@ -25,6 +25,20 @@ yarn shadcn@latest init
 # or
 npx shadcn@latest init
 ```
+
+### 2. Install specific components
+Example commands to add components into your project:
+```bash
+npx shadcn@latest add accordion
+npx shadcn@latest add alert
+npx shadcn@latest add button
+npx shadcn@latest add alert-dialog
+...
+and more components
+```
+
+
+
 ## Version Used
 shadcn/ui: 3.2.1
 
